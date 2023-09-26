@@ -128,7 +128,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.teal,
                       ),
                       title: Text(
-                        '1/2 Hamdah, Jhenaidah',
+                        'Dhaka, Bangladesh',
                         style: TextStyle(
                           color: Colors.teal,
                           fontSize: 20.0,
